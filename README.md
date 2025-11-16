@@ -20,4 +20,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 ini berasal dari branch developemnt, commit pertama
 
-testing confilct dari branch development
+testing confilct dari branch main
